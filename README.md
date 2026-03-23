@@ -27,7 +27,7 @@ When I'm not working with data, I enjoy reading and learning new skill. I love t
 
 - **Project A:** Online Retail Data Analysis using data visualization and analytics  
 - **Project B:** Sales Dashboard for business performance tracking.
--- **Project C:** AI Automation project using AI tools and workflows.
+- **Project C:** AI Automation project using AI tools and workflows.
 
 ## 🌱 Currently Learning 
 
