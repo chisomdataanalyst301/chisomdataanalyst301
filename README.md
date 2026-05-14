@@ -25,13 +25,15 @@ When I'm not working with data, I enjoy reading and learning new skill. I love t
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Online Retail Data Analysis using data visualization and analytics  
-- **Project B:** Sales Dashboard for business performance tracking.
-- **Project C:** AI Automation project using AI tools and workflows.
+-**Project A:** Data Engineering project focused on SQL, Python, and data pipeline development.
+
+-**Project B:** Business Intelligence Dashboard for data visualization and performance analytics.
+
+-**Project C:** AI Automation project using AI tools and workflows.
 
 ## 🌱 Currently Learning 
 
-- Currently learning AI, Machine Learning, and AI Automation for data-driven solutions., 
+- Currently learning AI, Machine Learning, and AI Automation for data-driven solutions., Data Pipeline Development
 -  Data Science.
 
 ## 🛠️ Technical Skillset
