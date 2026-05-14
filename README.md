@@ -8,8 +8,8 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="www.tiktok.com/@precious_analyst-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
+  <a href="https://www.linkedin.com/in/chisom-precious-8685b4282"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="www.tiktok.com/@precious_analyst-url"><img src="https://img.shields.io/badge/Tiktok?style=for-the-badge&logo=tiktok"></a>
   <a href="mailto:orjichisom12@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
