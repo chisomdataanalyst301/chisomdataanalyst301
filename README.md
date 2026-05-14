@@ -33,7 +33,7 @@ When I'm not working with data, I enjoy reading and learning new skill. I love t
 
 ## 🌱 Currently Learning 
 
-- Currently learning AI,Machine Learning, and AI Automation for data-driven solutions,Data Pipeline Development
+- Currently learning AI, Machine Learning, and AI Automation for data-driven solutions, Data Pipeline Development
 -  Data Science.
 
 ## 🛠️ Technical Skillset
